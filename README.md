@@ -6,18 +6,18 @@
  
  </div>
 
-### :man_technologist: I'm Antar Das and I'm interested in programming and Solve Problems
+### :man_technologist: I'm Emon Das and I'm interested in programming and Solve Problems
 
 Currently I'm learning, practicing courses and Data Structure and Algorithm.
 
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Antardas.Antardas)
+![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emondaslearner.emondaslearner)
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
 <h2>Social Networks</h2>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Antardas0)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emondas010)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Antardas0/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Antardas)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antardas)
